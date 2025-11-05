@@ -1,0 +1,29 @@
+body {
+    background-color:lightpink;
+    color: azure;
+}
+p {
+    color:azure;
+font-family:cursive;
+font-size: medium;
+font-weight:100;
+text-align: center;
+}
+
+img {
+    height: 800px;
+padding: 50px;
+}
+.Anya{
+    color:aliceblue
+}
+.Anya{
+    color:bisque;
+    background:beige;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+h1:hover{
+    color:rgb(122, 175, 175)
+}
+
